@@ -58,3 +58,6 @@ coverage
 test-report.xml
 
 *.zip
+
+# editor settings
+.vscode/
